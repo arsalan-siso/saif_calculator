@@ -30,3 +30,11 @@
 - مكتبات SDL2:
   ```bash
   sudo apt install gcc libsdl2-dev libsdl2-mixer-dev libsdl2-ttf-dev
+## التحميل وتشغيل باشر
+```bash
+ # مثال
+git clone https://github.com/arsalan-siso/saif_calculator.git
+cd saif_calculator
+chmod +x bin/حداد2
+./bin/حداد2 src/آلة_حاسبة_رسومية.سيف
+./آلة_حاسبة_رسومية
